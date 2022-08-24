@@ -1,1 +1,2 @@
-print("I performed a test");
+print("I performed a test")
+print("hii")
