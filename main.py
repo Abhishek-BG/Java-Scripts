@@ -1,3 +1,1 @@
-print("ok")
-def main():
-    pass
+print("I performed a test");
