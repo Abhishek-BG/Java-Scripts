@@ -1,6 +1,7 @@
 node {
   stage('SCM') {
     checkout scm
+    //comments
   }
   stage('SonarQube Analysis') {
     def scannerHome = tool 'SonarScanner';
